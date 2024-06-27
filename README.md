@@ -51,22 +51,38 @@ By identifying the most valuable customers, analyzing the churn rate, and unders
 ##  The Dataset Contained the Following Information:
 
 'RowNumber': A sequential index assigned to each row
+
 'CustomerId': A unique serial key for each customer
+
 'Surname': The customer's surname
+
 'CreditScore': The customer's credit score
+
 'Geography': The country of the customer
+
 'Gender': The gender of the customer
+
 'Age': The age of the customer
+
 'Tenure': The number of years the customer has been with the bank
+
 'Balance': The current balance in the customer's account
+
 'NumOfProducts': The number of banking products the customers has with the bank
+
 'HasCrCard': Whether or not the customer has a credit card with the bank
+
 'IsActiveMember': Whether or not the customer is an active member of the bank = 'EstimatedSalary': The estimated salary of the customer
+
 'EstimatedSalary': The estimated salary of the customer
+
 'Exited': Whether or not the customer has churned (1 if they did, 0 if they did not)
-'Exited': Whether or not the customer has churned (1 if they did, 0 if they did not)
+
 'Complain': Whether or not the customer has filed a complaint
+
 'SatisfactionScore': The customer's satisfaction score
+
 'CardType': The type of credit card the customer has
+
 'PointEarned': The number of reward points the customer has earned    
 
